@@ -94,15 +94,6 @@ For each portfolio the following metrics are computed:
 
 ---
 
-## Project Structure
-
-portfolio-optimization/
-
-├── portfolio_optimization_project.ipynb
-└── README.md
-
----
-
 ## Key Concepts Demonstrated
 
 * Modern Portfolio Theory
